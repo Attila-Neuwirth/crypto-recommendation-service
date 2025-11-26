@@ -3,7 +3,7 @@
 ## Testing your app
 
 ### Running locally
-
+There are multiple options
 1. You can just use the SpringBoot run functionality that is default in IntelliJ IDEA
 
 2. Start your application with Maven from the project directory
@@ -19,7 +19,10 @@
     ```
 
 ### Testing locally
-Swagger UI is available at [localhost]()
+Swagger UI: http://localhost:8080/swagger-ui/index.html  
+API description: http://localhost:8080/v3/api-docs:  
 
-
-
+### Improvement options
+* Increase test coverage
+* Additional data validations
+* Change storage to something industry standard (e.g. Redis)
