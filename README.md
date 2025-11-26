@@ -2,6 +2,10 @@
 
 ## Testing your app
 
+### Requirements
+* Java 21
+* Maven 3.9.x
+
 ### Running locally
 There are multiple options
 1. You can just use the SpringBoot run functionality that is default in IntelliJ IDEA
